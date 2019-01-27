@@ -8,7 +8,7 @@
 # * If we meet some day, and you think                       #      
 # * this stuff is worth it, you can buy me a beer in return. # 
 #             Poul-Henning Kamp                              #    
-#    遵循Beerware协约，欢迎大家给我寄小熊撒  φ(≧ω≦*)φ        #        
+#    遵循Beerware协约，欢迎请我喝啤酒啊  φ(≧ω≦*)φ        #        
 ##############################################################
 ```
 # 作者信息
@@ -18,4 +18,6 @@
 邮箱：walogia@yahoo.com
 QQ：2968976161
 ```
+
+
 
